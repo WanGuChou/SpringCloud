@@ -2,14 +2,23 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile name="Annotation profile for 2-springboot-example" enabled="true">
+        <sourceOutputDir name="../2-springboot-example/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../2-springboot-example/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="2-springboot-0-example" />
+        <module name="2-springboot-example" />
+      </profile>
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="2-springboot-example" />
+        <module name="2-springboot-1-actuator" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="2-springboot-0-example" target="1.8" />
+      <module name="2-springboot-1-actuator" target="1.8" />
       <module name="2-springboot-example" target="1.8" />
     </bytecodeTargetLevel>
   </component>

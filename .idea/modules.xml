@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/2-springboot-example/2-springboot-example.iml" filepath="$PROJECT_DIR$/2-springboot-example/2-springboot-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-springboot-1-actuator/2-springboot-1-actuator.iml" filepath="$PROJECT_DIR$/2-springboot-1-actuator/2-springboot-1-actuator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-springboot-0-example/2-springboot-example.iml" filepath="$PROJECT_DIR$/2-springboot-0-example/2-springboot-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringCloud.iml" filepath="$PROJECT_DIR$/.idea/SpringCloud.iml" />
     </modules>
   </component>
