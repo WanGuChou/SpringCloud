@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/0-springboot-springsession-springsecurity-redis" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/2-springboot-0-example" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/2-springboot-1-actuator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot-Learning/Chapter9-1-1/compute-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3-eureka/eureka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3-eureka/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3-eureka/eureka-server-peer" charset="UTF-8" />
   </component>
 </project>

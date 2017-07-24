@@ -13,13 +13,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="0-springboot-springsession-springsecurity-redis" />
         <module name="2-springboot-1-actuator" />
+        <module name="compute-service" />
+        <module name="eureka-client" />
+        <module name="eureka-server" />
+        <module name="eureka-server (1)" />
+        <module name="eureka-server-peer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="2-springboot-0-example" target="1.8" />
+      <module name="0-springboot-springsession-springsecurity-redis" target="1.8" />
       <module name="2-springboot-1-actuator" target="1.8" />
-      <module name="2-springboot-example" target="1.8" />
+      <module name="compute-service" target="1.8" />
+      <module name="eureka-client" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="eureka-server-peer" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

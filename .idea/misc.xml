@@ -5,6 +5,12 @@
       <list>
         <option value="$PROJECT_DIR$/2-springboot-example/pom.xml" />
         <option value="$PROJECT_DIR$/2-springboot-1-actuator/pom.xml" />
+        <option value="$PROJECT_DIR$/0-springboot-springsession-springsecurity-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter3-SpringCloudEureka/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter3-eureka/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter3-eureka/eureka-client/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-Learning/Chapter9-1-1/compute-service/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter3-eureka/eureka-server-peer/pom.xml" />
       </list>
     </option>
   </component>
